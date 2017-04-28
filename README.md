@@ -4,12 +4,12 @@ Many of the commonly used implementations of numerical methods used commonly in 
 
 * Least squares error approximation
 * Ordinary differential equations
- - Euler's method
- - Euler-Cromer method
- - Midpoint method
- - Leapfrog method
- - Verlet method
- - Velocity Verlet method
+    - Euler's method
+    - Euler-Cromer method
+    - Midpoint method
+    - Leapfrog method
+    - Verlet method
+    - Velocity Verlet method
 * 4th Order Runge-Kutta Method
 * Runge-Kuttta-Fehlberg Method (a.k.a. adaptive Runge-Kutta)
 * Discrete-Finite Fourier Transform
