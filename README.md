@@ -14,4 +14,5 @@ Many of the commonly used implementations of numerical methods used commonly in 
 * Runge-Kuttta-Fehlberg Method (a.k.a. adaptive Runge-Kutta)
 * Discrete-Finite Fourier Transform
 * DFT with Fast Fourier Transform
+* Solving the Poisson's Equation using Jacobi method
 
